@@ -1,0 +1,4 @@
+*.idx
+**/__pycache__
+*.txt
+!requirements.txt
